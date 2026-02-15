@@ -4,6 +4,8 @@ A typing-based micro-learning tool built with Python and tkinter. Symbols are di
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 
+![Screenshot](screenshot.png)
+
 ## Features
 
 - **Type-to-learn** — see a symbol, type its name and description to reinforce memory
